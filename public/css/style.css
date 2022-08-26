@@ -6,7 +6,7 @@
 }
 .oi{
     height: 70px;
-    background-image: url(/assets/images/Prancheta\ 1.png);
+    background-image: url(/images/Prancheta\ 1.png);
     background-size:cover;
     background-position:bottom;
     overflow:hidden;
@@ -104,7 +104,7 @@ header {
 .banner {
     height:calc(100vh - 100px);
     background-color:#333;
-    background-image:url('../assets/images/bg.jpg');
+    background-image:url('../images/bg.jpg');
     background-size:cover;
     background-position:bottom;
     overflow:hidden;

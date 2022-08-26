@@ -78,7 +78,7 @@ header {
     display:none;
 }
 .default {
-    padding-top:225px;
+    padding-top:150px;
     padding-bottom:182px;
 }
 .default .section-title,
@@ -228,7 +228,7 @@ footer {
 .footer--item.area2 {
     color:rgb(240, 240, 240);
     line-height:20px;
-    font-size:13px;
+    font-size:12px;
     justify-content: center;
     display: flex;
  

@@ -14,8 +14,10 @@ export const historia = (req:Request, res: Response) =>{
     res.render('pages/historia')
     
 }
-
 export const cardapio = (req:Request, res: Response) =>{
     res.render('pages/cardapio')
+}
+export const finalizar = (req:Request, res: Response) =>{
+    res.render('pages/finalizar')
 }
 

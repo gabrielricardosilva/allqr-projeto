@@ -164,14 +164,19 @@ border-bottom-right-radius: 5px;
     border-bottom-right-radius: 5px;
     padding: 4px 0px;
     color: #000;
+    margin-top: -10px;
 }
 
 footer{
     display: flex;
     justify-content: center;
     background-color: rgba(0, 0, 0, 0.926);
+    font-size: 11px;
 }
 
+a{
+    text-decoration: none;
+}
 
 @media (min-width:300px) and (max-width:800px) {
 

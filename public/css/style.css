@@ -186,8 +186,7 @@ footer {
     margin:auto;
     display:flex;
     justify-content: center;
-    
-
+    align-items: center;
 }
 .footer--item {
     flex:1;
@@ -197,6 +196,7 @@ footer {
     display:flex;
     justify-content: left;
 }
+
 .footer-social a {
     width:25px;
     height:25px;
@@ -345,6 +345,7 @@ footer {
     .footer--area {
         flex-direction:column;
         font-size: 10px;
+     
     }
     .footer--item {
         margin-bottom:20px;
@@ -413,7 +414,7 @@ footer {
     .footer--area {
         flex-direction:column;
         font-size: 10px;
-        background-color: #000;
+       
     }
     .footer--item {
         margin-bottom:20px;

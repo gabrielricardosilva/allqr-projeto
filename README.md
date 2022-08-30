@@ -1,4 +1,4 @@
-## PetShop em NodeJS
+## Projeto Integrador TI102
 Projeto PetShop feito em NodeJS
 
 ### Pré-requisitos globais:

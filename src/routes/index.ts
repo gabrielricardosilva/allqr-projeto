@@ -8,7 +8,7 @@ router.get('/',PageController.home)
 router.get('/pedidos',PageController.pedidos)
 router.get('/historia',PageController.historia)
 router.get('/cardapio',PageController.cardapio)
-router.get('/finalizar',PageController.finalizar)
+router.get('/pagamento',PageController.pagamento)
 
 router.get('/search',SearchController.search)
 

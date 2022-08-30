@@ -22,10 +22,10 @@
             <img class="menu-opener" src="/images/menu.png"/>
             <nav>
                 <ul>
-                    <li class="active"><a href="/">Pagina Inicial</a></li>
-                    <li ><a href="/historia">Nossa História</a></li>
-                    <li><a href="/cardapio">Cardápio</a></li>
-                    <li><a href="/pedidos">Pedidos<img class="carrinho" src="/images/carrinho.png"/></a></li>
+                    <li class="{{#menu.index}}active{{/menu.index}}"><a href="/">Pagina Inicial</a></li>
+                    <li class="{{#menu.historia}}active{{/menu.historia}}"><a href="/historia">Nossa História</a></li>
+                    <li class="{{#menu.cardapio}}active{{/menu.cardapio}}"><a href="/cardapio">Cardápio</a></li>
+                    <li class="{{#menu.pedidos}}active{{/menu.pedidos}}"><a href="/pedidos">Pedidos<img class="carrinho" src="/images/carrinho.png"/></a></li>
                 </ul>
             </nav>
         </div>
